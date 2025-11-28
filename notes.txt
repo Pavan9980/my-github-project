@@ -9,3 +9,6 @@ Git checkout command
 - Switch back to master branch
 - Check the Git log and
 - Understand that, in the master branch, you can't see the commits of the branch chapter-two
+
+
+- Create a branch named chapter-two-2
