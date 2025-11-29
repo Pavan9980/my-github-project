@@ -39,3 +39,4 @@ Git checkout command
 
 git stash push -m "stash 3 changes"
 >>>>>>> 66c1fb063837afd2576f1d51159c0a03db33e086
+New line from chapter-2
