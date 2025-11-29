@@ -14,3 +14,9 @@ Git checkout command
 - Create a branch named chapter-two-2
 
 git stash push -m "stash 3 changes"
+
+
+- Create a repository in GitHub
+- Add few files to the repository
+- Edit the files and do some commits and
+- Try to create branches and tags in the repository
