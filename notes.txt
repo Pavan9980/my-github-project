@@ -1,0 +1,16 @@
+This is my first Git file.
+
+Git checkout command
+
+
+- Create a branch named chapter-two
+- into the chapter-two branch
+- Do some commits
+- Switch back to master branch
+- Check the Git log and
+- Understand that, in the master branch, you can't see the commits of the branch chapter-two
+
+
+- Create a branch named chapter-two-2
+
+git stash push -m "stash 3 changes"
