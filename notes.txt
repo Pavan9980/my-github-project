@@ -12,3 +12,5 @@ Git checkout command
 
 
 - Create a branch named chapter-two-2
+
+git stash push -m "stash 3 changes"
